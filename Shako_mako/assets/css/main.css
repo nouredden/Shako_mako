@@ -2899,11 +2899,11 @@ input, select, textarea {
 					}
 
 			.main.style2 ul.major-icons li .icon {
-				border-color: #ffffff;
+				border-color: #cc1f24;
 			}
 
 			.main.style2 .icon.major {
-				color: #ffffff;
+				color: #cc1f24;
 			}
 
 /* Header */
@@ -2922,23 +2922,23 @@ input, select, textarea {
 	}
 
 		#header a {
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: rgba(187, 52, 52, 0.925);
 		}
 
 			#header a:hover {
-				color: #ffffff;
+				color: #cc1f24;
 			}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6, #header strong, #header b {
-			color: #ffffff;
+			color: #cc1f24;
 		}
 
 		#header header p {
-			color: #ffffff;
+			color: #cc1f24;
 		}
 
 		#header header.major:after {
-			background: #ffffff;
+			background: #cc1f24;
 		}
 
 		#header input[type="submit"],
@@ -2946,8 +2946,8 @@ input, select, textarea {
 		#header input[type="button"],
 		#header button,
 		#header .button {
-			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #ffffff !important;
+			box-shadow: inset 0 0 0 1px #cc1f24;
+			color: #cc1f24 !important;
 		}
 
 			#header input[type="submit"]:hover,
@@ -2971,8 +2971,8 @@ input, select, textarea {
 			#header input[type="button"].primary,
 			#header button.primary,
 			#header .button.primary {
-				background-color: #ffffff;
-				box-shadow: inset 0 0 0 1px #ffffff !important;
+				background-color: #cc1f24;
+				box-shadow: inset 0 0 0 1px #cc1f24 !important;
 				color: #4686a0 !important;
 			}
 
@@ -2982,7 +2982,7 @@ input, select, textarea {
 				#header button.primary:hover,
 				#header .button.primary:hover {
 					background-color: rgba(255, 255, 255, 0.125) !important;
-					color: #ffffff !important;
+					color: #cc1f24 !important;
 				}
 
 				#header input[type="submit"].primary:active,
@@ -2994,11 +2994,11 @@ input, select, textarea {
 				}
 
 		#header ul.major-icons li .icon {
-			border-color: #ffffff;
+			border-color: #cc1f24;
 		}
 
 		#header .icon.major {
-			color: #ffffff;
+			color: #cc1f24;
 		}
 
 		#header h1 {
@@ -3024,7 +3024,7 @@ input, select, textarea {
 			}
 
 			#header .actions:after {
-				background: #ffffff;
+				background: #cc1f24;
 				content: '';
 				height: 100vh;
 				left: 50%;
@@ -3072,7 +3072,7 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #c9486f, #7c0d0d);
+			background-image: linear-gradient(45deg, #db517b, #8b0b0b);
 			content: '';
 			height: 100%;
 			left: 0;
@@ -3120,19 +3120,19 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: #ffffff;
+				color: #cc1f24;
 			}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #ffffff;
+			color: #cc1f24;
 		}
 
 		#footer header p {
-			color: #ffffff;
+			color: #cc1f24;
 		}
 
 		#footer header.major:after {
-			background: #ffffff;
+			background: #cc1f24;
 		}
 
 		#footer input[type="submit"],
@@ -3140,8 +3140,8 @@ input, select, textarea {
 		#footer input[type="button"],
 		#footer button,
 		#footer .button {
-			box-shadow: inset 0 0 0 1px #ffffff;
-			color: #ffffff !important;
+			box-shadow: inset 0 0 0 1px #cc1f24;
+			color: #cc1f24 !important;
 		}
 
 			#footer input[type="submit"]:hover,
@@ -3508,6 +3508,6 @@ input, select, textarea {
 	}
 	section div h1 span{
 		font-family: Blippo, fantasy;
-		font-size: 100px;
-		color: #7c0d0d;
+		font-size: 60px;
+		color: #b27701;
 	}
